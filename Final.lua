@@ -26,7 +26,7 @@ local Themes = {
 	Names = {
 		"Dark",
 		"Darker", 
-		"AMOLED",
+		"Izenxu",
 		"Light",
 		"Balloon",
 		"SoftCream",
@@ -104,8 +104,8 @@ local Themes = {
 		DialogInput = Color3.fromRGB(45, 45, 45),
 		DialogInputLine = Color3.fromRGB(120, 120, 120),
 	},
-	AMOLED = {
-		Name = "Custom",
+	Izenxu = {
+		Name = "Izenxu",
 		Accent = Color3.fromRGB(255, 255, 255),
 		AcrylicMain = Color3.fromRGB(0, 0, 0),
 		AcrylicBorder = Color3.fromRGB(20, 20, 20),
@@ -6632,7 +6632,7 @@ local httpService = game:GetService("HttpService")
 local InterfaceManager = {} do
 	InterfaceManager.Folder = "FluentSettings"
 	InterfaceManager.Settings = {
-		Theme = "AMOLED",
+		Theme = "Izenxu",
 		Acrylic = true,
 		Transparency = false,
 		MenuKeybind = "RightControl"
