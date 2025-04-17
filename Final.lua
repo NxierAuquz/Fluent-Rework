@@ -105,7 +105,7 @@ local Themes = {
 		DialogInputLine = Color3.fromRGB(120, 120, 120),
 	},
 	AMOLED = {
-		Name = "AMOLED",
+		Name = "Custom",
 		Accent = Color3.fromRGB(255, 255, 255),
 		AcrylicMain = Color3.fromRGB(0, 0, 0),
 		AcrylicBorder = Color3.fromRGB(20, 20, 20),
